@@ -1,1 +1,23 @@
-/* styles go here */
+body {
+  margin-top: -12px;
+}
+
+form {
+  margin: 2px;
+}
+
+.block {
+  margin: 20px 0;
+}
+
+.field_title {
+  margin: 10px 0;
+}
+
+.block div:first-of-type {
+  margin-top: 0;
+}
+
+.block div:last-of-type {
+  margin-bottom: 0;
+}
