@@ -1,13 +1,5 @@
-body {
-  margin-top: -12px;
-}
-
-form {
-  margin: 2px;
-}
-
 .block {
-  margin: 20px 0;
+  margin-bottom: 20px;
 }
 
 .field_title {
